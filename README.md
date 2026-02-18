@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🚀 I’m a **Frontend Developer** building responsive and interactive user interfaces.<br>- 🌱 Currently improving my skills in **ReactJS and modern JavaScript**.<br>- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**<br>- 📫 How to reach me: **gudapavansai5@gmail.com**</p>
+<p align="left">- 🚀 I’m a **Frontend Developer** building responsive and interactive user interfaces.<br>- 🌱 Currently improving my skills in **ReactJS and modern JavaScript**.<br>- 💬 Ask me about **HTML, CSS, JavaScript, Angular,  TypeScript ReactJS**<br>- 📫 How to reach me: **gudapavansai5@gmail.com**</p>
 
 ###
 
